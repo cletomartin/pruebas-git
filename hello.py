@@ -1,2 +1,4 @@
-print("Hola a todos!")
+print("Hola Mundo!")
+
+print("Esto es una prueba")
 
